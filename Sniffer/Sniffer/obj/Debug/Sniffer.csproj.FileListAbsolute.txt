@@ -1,0 +1,7 @@
+A:\sniffer_c_sharp\Sniffer\Sniffer\bin\Debug\Sniffer.exe.config
+A:\sniffer_c_sharp\Sniffer\Sniffer\bin\Debug\Sniffer.exe
+A:\sniffer_c_sharp\Sniffer\Sniffer\bin\Debug\Sniffer.pdb
+A:\sniffer_c_sharp\Sniffer\Sniffer\obj\Debug\Sniffer.csprojAssemblyReference.cache
+A:\sniffer_c_sharp\Sniffer\Sniffer\obj\Debug\Sniffer.csproj.CoreCompileInputs.cache
+A:\sniffer_c_sharp\Sniffer\Sniffer\obj\Debug\Sniffer.exe
+A:\sniffer_c_sharp\Sniffer\Sniffer\obj\Debug\Sniffer.pdb
